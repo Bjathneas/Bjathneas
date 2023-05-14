@@ -11,7 +11,6 @@ With each repo I create, I aim to create an easy to use library/program with eff
 ## Repos to Checkout
 I develop many kinds of libraries and programs that you could checkout!
 * [**EnCore**](https://github.com/Bjathneas/EnCore): An Entity Component System Library
-* [**CipherCore**](https://github.com/Bjathneas/CipherCore): A Cipher encryption Libary with 50+ different ciphers
 
 ## Tell me where I could find this ever learning humanbeing Benajah
 Entertaining question aside, I can be found in a few different ways.
