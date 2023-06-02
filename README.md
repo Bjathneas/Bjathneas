@@ -17,7 +17,6 @@ I develop many kinds of libraries and programs that you could checkout!
 ## Tell me where I could find this ever learning humanbeing Benajah
 Entertaining question aside, I can be found in a few different ways.
 * [**LinkdIn**](https://www.linkedin.com/in/benajah-baskin-22a284260/)
-* **Discord**: AmorComputrum#8975
 * GitHub: Well you're already here!!
 
 <!---
