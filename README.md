@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjathneas" alt="bjathneas" /></a> </p>
 
-- 🔭 I’m currently working on [Wispbound/ElementaEngine](https://github.com/Bjathneas/Wispbound)
+- 🔭 I’m currently working on [SomeGame/bEngine_lib](https://github.com/Bjathneas/SomeGame)
 
 - 🌱 I’m currently learning **to finish projects and create a final product**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bjathneas?tab=repositories](https://github.com/Bjathneas?tab=repositories)
-
-- 💬 Ask me about **c++**
-
-- 📫 How to reach me **bjathneas@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/benajah-baskin-22a284260/](https://www.linkedin.com/in/benajah-baskin-22a284260/)
 
